@@ -160,7 +160,7 @@ NOTES
 ```
 
 ## Demo
-![](https://github.com/r1cksec/smb-reverse-shell/blob/master/demo.gif)
+![](https://github.com/r1cksec/smb-reverse-shell/blob/main/demo.gif)
 
 ## License
 
