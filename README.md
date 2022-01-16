@@ -31,7 +31,7 @@ DESCRIPTION
 
 PARAMETER
     -XmlFile <String>
-	    The path to XML file containing the commands and results.
+        The path to XML file containing the commands and results.
 
         Required?                true
         Position?                    1
@@ -55,7 +55,7 @@ PARAMETER
         Position?                    4
 
     -Url <String>
-	    URL that holds a Powershell script.
+        URL that holds a Powershell script.
 
         Required?                false
         Position?                    5
@@ -142,7 +142,7 @@ DESCRIPTION
 
 PARAMETER
     -XmlFile <String>
-	    The path to XML file containing the commands and results.
+        The path to XML file containing the commands and results.
         
         Required?                true
         Position?                    1
