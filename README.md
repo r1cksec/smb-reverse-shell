@@ -1,4 +1,4 @@
-# Smb Revers Shell
+# Smb Reverse Shell
 
 Invoke-SmbOrder and Invoke-SmbObey are two simple Powershell scripts that allow remote control of a compromised client using an XML file on an SMB share.
 The script is intended to enable command line sessions on hosts that do not have direct access to the Internet.
